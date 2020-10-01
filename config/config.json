@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "./nodebmsapp.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "./nodebmsapp.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "./nodebmsapp.db"
+  }
+}

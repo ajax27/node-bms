@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,sBAAkB;EAChB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,KAAK;AAGvB,oBAAgB;EACd,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,MAAM;AAGf,kCAA8B;EAC5B,WAAW,EAAE,GAAG;AAGlB,iCAA6B;EAC3B,WAAW,EAAE,IAAI",
+"sources": ["catalogue.scss"],
+"names": [],
+"file": "catalogue.css"
+}
