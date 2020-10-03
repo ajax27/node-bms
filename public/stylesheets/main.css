@@ -9,14 +9,14 @@ form {
 }
 
 /* Set padding to keep content from hitting the edges */
-/* .body-content {
-} */
+.body-content {
+}
 
 /* Set width on the form input elements since they're 100% wide by default */
-/* input,
+input,
 select,
 textarea {
-} */
+}
 
 /* styles for validation helpers */
 .field-validation-error {

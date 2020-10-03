@@ -1,7 +1,7 @@
 'use strict';
 
 const catalogueService = require('../services/catalogue.service');
-// const cartService = require('../services/cart.service');
+const cartService = require('../services/cart.service');
 const date = new Date();
 
 /* Get all products */
